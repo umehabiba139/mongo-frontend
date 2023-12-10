@@ -1,4 +1,4 @@
-urlg = "http://localhost:3005/players";
+urlg = https://node-mongo-ashy.vercel.app/players/";
 function getScores() {
   console.log("test ");
   fetch(urlg, {
